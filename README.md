@@ -1,4 +1,4 @@
-# CSS Course Contents
+# CSS  Contents
 
 ## Introduction to CSS
 - Why do we need CSS?
